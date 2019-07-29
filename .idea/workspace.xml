@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71fca94e-172a-4a12-a809-f7dcf84db65c" name="Default Changelist" comment="" />
+    <list default="true" id="71fca94e-172a-4a12-a809-f7dcf84db65c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T092233.971598.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T092326.360595.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T093259.121355.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T102112.771862.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T104140.788101.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105211.986203.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105504.169052.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105532.961698.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105550.307691.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105637.896412.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105658.667601.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105707.656115.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105738.405873.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T105750.174547.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T112059.308000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T112248.934271.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T112424.126715.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T113318.989308.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T114018.980330.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T114139.319925.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T114423.053290.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T105633.873831.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T110953.157547.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T111145.279960.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T111659.188915.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T112120.487860.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T112153.812766.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T112752.494282.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T112836.824817.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T113315.051731.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T113653.160206.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T113840.870367.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T114359.043565.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T114437.163746.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T115112.729371.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T121000.922900.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T121209.180236.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T121801.482386.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T122244.116552.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T123100.246929.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T123157.947229.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T123217.370340.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T123657.370355.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-03T123724.256893.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-06T095226.826326.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-06T095553.791163.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-06T095844.330918.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-06T213817.057101.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-07T190339.262559.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-07T190409.962315.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-07T190447.188444.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/captcha/2019-06-10T115657.303181.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/curp/2019-06-10T115905.742527.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/curp/2019-06-12T123659.040242.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/curp/2019-06-12T130257.836400.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/curp/2019-06-12T130517.582393.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/curp/2019-06-18T102708.702853.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repuve_spider/logs/plate/2019-06-18T095154.755943.log" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,50 +74,7 @@
     <favorites_list name="API-REPUVE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repuve_spider/repuve_spider/spiders/repuve_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repuve_spider/repuve_spider/spiders/curp_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repuve_spider/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,7 +103,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/API-Repuve" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -126,6 +142,17 @@
             <path>
               <item name="API-REPUVE" type="b2602c69:ProjectViewProjectNode" />
               <item name="API-REPUVE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-REPUVE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-REPUVE" type="462c0819:PsiDirectoryNode" />
+              <item name="repuve_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-REPUVE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-REPUVE" type="462c0819:PsiDirectoryNode" />
+              <item name="repuve_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,12 +241,12 @@
       <workItem from="1562785313495" duration="46000" />
       <workItem from="1562862786186" duration="81000" />
       <workItem from="1564416797811" duration="61000" />
-      <workItem from="1564417110185" duration="1301000" />
+      <workItem from="1564417110185" duration="1724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152546000" />
+    <option name="totallyTimeSpent" value="152969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -338,22 +365,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T113318.989308.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/repuve_spider/repuve_spider/spiders/repuve_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repuve_spider/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -365,13 +385,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repuve_spider/logs/captcha/2019-05-31T113318.989308.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repuve_spider/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
