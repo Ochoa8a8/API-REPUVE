@@ -1,0 +1,46 @@
+2019-06-03 11:54:13 [scrapy] DEBUG: Retrying <GET http://www2.repuve.gob.mx:8080/robots.txt> (failed 1 times): User timeout caused connection failure: Getting http://www2.repuve.gob.mx:8080/robots.txt took longer than 180.0 seconds..
+2019-06-03 11:54:23 [scrapy] DEBUG: Crawled (404) <GET http://www2.repuve.gob.mx:8080/robots.txt> (referer: None)
+2019-06-03 11:54:39 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: None)
+2019-06-03 11:54:39 [scrapy] ERROR: Spider error processing <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: None)
+Traceback (most recent call last):
+  File "C:\Users\Ochoa\PycharmProjects\API-REPUVE\repuve_spider\repuve_spider\spiders\repuve_spider.py", line 18, in parse
+    self.plate = response.meta['plate']
+KeyError: 'plate'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ochoa\API-REPUVE\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Users\Ochoa\PycharmProjects\API-REPUVE\repuve_spider\repuve_spider\spiders\repuve_spider.py", line 20, in parse
+    raise Error(401, 'No se introdujo placa')
+twisted.web.error.Error: <unprintable Error object>
+2019-06-03 11:54:40 [scrapy] INFO: Closing spider (finished)
+2019-06-03 11:54:40 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 1,
+ 'downloader/request_bytes': 940,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 14655,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 6, 3, 16, 54, 40, 57229),
+ 'log_count/DEBUG': 3,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 6,
+ 'response_received_count': 2,
+ 'retry/count': 1,
+ 'retry/reason_count/twisted.internet.error.TimeoutError': 1,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'spider_exceptions/Error': 1,
+ 'start_time': datetime.datetime(2019, 6, 3, 16, 51, 13, 387408)}
+2019-06-03 11:54:40 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,35 @@
+2019-06-18 09:52:03 [scrapy] DEBUG: Crawled (404) <GET http://www2.repuve.gob.mx:8080/robots.txt> (referer: None)
+2019-06-18 09:52:04 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: None)
+2019-06-18 09:52:04 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-18 09:52:06 [scrapy] DEBUG: Crawled (200) <POST http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha)
+2019-06-18 09:52:07 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-18 09:52:08 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-18 09:52:09 [scrapy] DEBUG: Crawled (200) <POST http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha)
+2019-06-18 09:52:09 [scrapy] DEBUG: Scraped from <200 http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta>
+{'brand': 'HONDA', 'model': 'CIVIC', 'yearModel': '2016', 'class_': 'AUTOMOVIL', 'type_': 'SEDAN', 'niv': '19XFC1672GE603061', 'nci': '2F1B6I56', 'plate': 'UKF705K', 'doors': '4 PUERTAS', 'originCity': 'E.U.A.', 'version': 'TURBO, T. AUT. CVT, 4 CIL., 1.', 'ccl': '1.5L', 'cylinders': 'L4', 'axles': None, 'assemblyPlant': 'GREENSBURG, E.U.A', 'extra': '4 PUERTAS AUTOMATICO GREENSBURG, E.U.A', 'enrolledInstitution': 'HONDA DE MEXICO S.A. DE C.V.', 'enrolledDate': '12/05/2016', 'enrolledHour': '10:07:25', 'registrationEntity': 'QUERETARO', 'registrationDate': '16/01/2017', 'lastUpdate': '12/03/2017', 'PGJ': 'Sin Reporte de Robo', 'OCRA': 'Sin Reporte de Robo'}
+2019-06-18 09:52:09 [scrapy] INFO: Closing spider (finished)
+2019-06-18 09:52:09 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3177,
+ 'downloader/request_count': 7,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 67832,
+ 'downloader/response_count': 7,
+ 'downloader/response_status_count/200': 6,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 6, 18, 14, 52, 9, 759801),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 8,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 5,
+ 'response_received_count': 7,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 6,
+ 'scheduler/dequeued/memory': 6,
+ 'scheduler/enqueued': 6,
+ 'scheduler/enqueued/memory': 6,
+ 'start_time': datetime.datetime(2019, 6, 18, 14, 52, 3, 125421)}
+2019-06-18 09:52:09 [scrapy] INFO: Spider closed (finished)

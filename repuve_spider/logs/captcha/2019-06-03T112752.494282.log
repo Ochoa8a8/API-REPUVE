@@ -1,0 +1,3 @@
+2019-06-03 11:28:09 [scrapy] DEBUG: Crawled (404) <GET http://www2.repuve.gob.mx:8080/robots.txt> (referer: None)
+2019-06-03 11:28:15 [scrapy] DEBUG: Retrying <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (failed 1 times): An error occurred while connecting: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+].

@@ -1,0 +1,35 @@
+2019-06-06 21:38:18 [scrapy] DEBUG: Crawled (404) <GET http://www2.repuve.gob.mx:8080/robots.txt> (referer: None)
+2019-06-06 21:38:18 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: None)
+2019-06-06 21:38:19 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-06 21:38:20 [scrapy] DEBUG: Crawled (200) <POST http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha)
+2019-06-06 21:38:20 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-06 21:38:20 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-06 21:38:21 [scrapy] DEBUG: Crawled (200) <POST http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha)
+2019-06-06 21:38:21 [scrapy] DEBUG: Scraped from <200 http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta>
+{'brand': 'DINA', 'model': '9 HTQ94-F', 'yearModel': '2015', 'class_': 'AUTOBUS', 'type_': 'AUTOBUS', 'niv': '3ADBYEARXFS012843', 'nci': '2H52L331', 'plate': '630171T', 'doors': '2', 'originCity': 'MEXICO', 'version': '555-230-70 CHASIS PLATAFORMA S', 'ccl': None, 'cylinders': None, 'axles': None, 'assemblyPlant': 'TEPEAPULCO, HGO. MEXICO', 'extra': ' NEUMATICOS Y PBV DE 33001 LB A 5500 TEPEAPULCO, HGO. MEXICO ', 'enrolledInstitution': 'DINA CAMIONES, S.A. DE C.V.', 'enrolledDate': '10/09/2014', 'enrolledHour': '11:20:34', 'registrationEntity': 'QUERETARO', 'registrationDate': '10/03/2017', 'lastUpdate': '16/05/2017', 'PGJ': 'Sin Reporte de Robo', 'OCRA': 'Sin Reporte de Robo'}
+2019-06-06 21:38:21 [scrapy] INFO: Closing spider (finished)
+2019-06-06 21:38:21 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3178,
+ 'downloader/request_count': 7,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 67788,
+ 'downloader/response_count': 7,
+ 'downloader/response_status_count/200': 6,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 6, 7, 2, 38, 21, 767371),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 8,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 5,
+ 'response_received_count': 7,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 6,
+ 'scheduler/dequeued/memory': 6,
+ 'scheduler/enqueued': 6,
+ 'scheduler/enqueued/memory': 6,
+ 'start_time': datetime.datetime(2019, 6, 7, 2, 38, 17, 858147)}
+2019-06-06 21:38:21 [scrapy] INFO: Spider closed (finished)

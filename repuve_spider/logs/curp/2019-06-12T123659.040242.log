@@ -1,0 +1,34 @@
+2019-06-12 12:37:02 [scrapy] DEBUG: Crawled (404) <GET https://consultas.curp.gob.mx/robots.txt> (referer: None)
+2019-06-12 12:37:03 [scrapy] DEBUG: Crawled (200) <GET https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp> (referer: None)
+2019-06-12 12:37:16 [scrapy] DEBUG: Crawled (200) <GET https://consultas.curp.gob.mx/CurpSP/captchaCurp> (referer: https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp)
+2019-06-12 12:37:21 [scrapy] DEBUG: Crawled (200) <GET https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp> (referer: https://consultas.curp.gob.mx/CurpSP/captchaCurp)
+2019-06-12 12:37:22 [scrapy] DEBUG: Crawled (200) <GET https://consultas.curp.gob.mx/CurpSP/captchaCurp> (referer: https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp)
+2019-06-12 12:37:25 [scrapy] DEBUG: Crawled (200) <POST https://consultas.curp.gob.mx/CurpSP/gobmx/consultaXCurp.do> (referer: https://consultas.curp.gob.mx/CurpSP/captchaCurp)
+2019-06-12 12:37:25 [scrapy] DEBUG: Scraped from <200 https://consultas.curp.gob.mx/CurpSP/gobmx/consultaXCurp.do>
+{'name': 'JOSE PABLO', 'paternal_surname': 'PRADO', 'maternal_surname': 'AYALA', 'sex': 'HOMBRE', 'birth_date': '07/03/1998', 'citizenship': 'MEXICO', 'birth_entity': 'MICHOACAN DE OCAMPO'}
+2019-06-12 12:37:25 [scrapy] INFO: Closing spider (finished)
+2019-06-12 12:37:25 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3252,
+ 'downloader/request_count': 6,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 87654,
+ 'downloader/response_count': 6,
+ 'downloader/response_status_count/200': 5,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 6, 12, 17, 37, 25, 296744),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 15,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 4,
+ 'response_received_count': 6,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 5,
+ 'scheduler/dequeued/memory': 5,
+ 'scheduler/enqueued': 5,
+ 'scheduler/enqueued/memory': 5,
+ 'start_time': datetime.datetime(2019, 6, 12, 17, 36, 59, 780285)}
+2019-06-12 12:37:25 [scrapy] INFO: Spider closed (finished)

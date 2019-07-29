@@ -1,0 +1,35 @@
+2019-06-06 09:52:31 [scrapy] DEBUG: Crawled (404) <GET http://www2.repuve.gob.mx:8080/robots.txt> (referer: None)
+2019-06-06 09:52:31 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: None)
+2019-06-06 09:52:31 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-06 09:52:33 [scrapy] DEBUG: Crawled (200) <POST http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha)
+2019-06-06 09:52:34 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-06 09:52:35 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-06 09:52:38 [scrapy] DEBUG: Crawled (200) <POST http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha)
+2019-06-06 09:52:38 [scrapy] DEBUG: Scraped from <200 http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta>
+{'brand': 'CHEVROLET', 'model': 'CORSA', 'yearModel': '2005', 'class_': 'AUTOMOVIL', 'type_': 'SEDAN', 'niv': '93CXM19R95C217472', 'nci': '22BOH2FL', 'plate': 'ULG892B', 'doors': '4', 'originCity': 'BRASIL', 'version': 'PAQ. E SEDAN T/M  MOTOR 1.8 LT', 'ccl': '1.8L', 'cylinders': 'L4', 'axles': None, 'assemblyPlant': 'BRASIL', 'extra': 'SEDAN 4 PUERTAS     CINTURONES DE 3 PUNTOS     BRASIL', 'enrolledInstitution': 'SECRETARIA DE FINANZAS DEL EDO DE MEXICO', 'enrolledDate': '02/07/2007', 'enrolledHour': '23:08:56', 'registrationEntity': 'QUERETARO', 'registrationDate': '21/12/2018', 'lastUpdate': '14/01/2019', 'PGJ': 'Sin Reporte de Robo', 'OCRA': 'Sin Reporte de Robo'}
+2019-06-06 09:52:38 [scrapy] INFO: Closing spider (finished)
+2019-06-06 09:52:38 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 3177,
+ 'downloader/request_count': 7,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 67857,
+ 'downloader/response_count': 7,
+ 'downloader/response_status_count/200': 6,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 6, 6, 14, 52, 38, 866014),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 8,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 5,
+ 'response_received_count': 7,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 6,
+ 'scheduler/dequeued/memory': 6,
+ 'scheduler/enqueued': 6,
+ 'scheduler/enqueued/memory': 6,
+ 'start_time': datetime.datetime(2019, 6, 6, 14, 52, 30, 878557)}
+2019-06-06 09:52:38 [scrapy] INFO: Spider closed (finished)

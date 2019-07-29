@@ -1,0 +1,32 @@
+2019-06-03 11:21:21 [scrapy] DEBUG: Crawled (404) <GET http://www2.repuve.gob.mx:8080/robots.txt> (referer: None)
+2019-06-03 11:21:21 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: None)
+2019-06-03 11:21:21 [scrapy] DEBUG: Crawled (200) <GET http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha> (referer: http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)
+2019-06-03 11:21:22 [scrapy] DEBUG: Crawled (200) <POST http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta> (referer: http://www2.repuve.gob.mx:8080/ciudadania/jcaptcha)
+2019-06-03 11:21:22 [scrapy] DEBUG: Scraped from <200 http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta>
+{'brand': 'VOLKSWAGEN', 'model': 'JETTA CLASICO', 'yearModel': '2012', 'class_': 'AUTOMOVIL', 'type_': 'SEDAN', 'niv': '3VW2V09M2CM028249', 'nci': '3K715COK', 'plate': 'ULY3479', 'doors': '4 PUERTAS', 'originCity': 'MEXICO', 'version': 'CLASICO, CL, MOTOR 2.0 LTS. 11', 'ccl': '2.0L', 'cylinders': 'L4', 'axles': None, 'assemblyPlant': 'PUEBLA, M', 'extra': 'JETTA CLASICO 1.9LTS 74KW TDI     CINTURONES AUTOMATICOS     PUEBLA, M     2.0L L4', 'enrolledInstitution': 'VOLKSWAGEN DE MEXICO S.A. DE C.V.', 'enrolledDate': '31/08/2011', 'enrolledHour': '09:36:52', 'registrationEntity': 'QUERETARO', 'registrationDate': '19/03/2017', 'lastUpdate': '18/05/2017', 'PGJ': 'Sin Reporte de Robo', 'OCRA': 'Sin Reporte de Robo'}
+2019-06-03 11:21:22 [scrapy] INFO: Closing spider (finished)
+2019-06-03 11:21:22 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1667,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 34666,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 6, 3, 16, 21, 22, 246961),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 5,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 2,
+ 'response_received_count': 4,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2019, 6, 3, 16, 21, 21, 100895)}
+2019-06-03 11:21:22 [scrapy] INFO: Spider closed (finished)

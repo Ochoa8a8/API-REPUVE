@@ -1,0 +1,6 @@
+pip install pillow
+pip install pytesseract
+pip install scrapy
+pip install scrapyrt
+pip uninstall Twisted
+pip install Twisted==18.9.0
